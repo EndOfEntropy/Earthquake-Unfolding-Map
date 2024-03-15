@@ -1,6 +1,9 @@
 # Earthquake-Unfolding-Map
 
 An application with an interactive map displaying earthquake data.
+  - Generate visual maps using Java code, the Unfolding Maps libraries and Processing library
+  - Create and manipulate Graphical User Interfaces (GUIs).
+  - Read live earthquake data and visualize it on the map as well visualize cities around the world on the Map.
 ==================================================================
 
 Object Oriented Programming in Java from University of California, San Diego offered through Coursera https://www.coursera.org/specializations/java-object-oriented
