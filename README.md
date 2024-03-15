@@ -1,6 +1,7 @@
 # Earthquake-Unfolding-Map
 
 An application with an interactive map displaying earthquake data.
+==================================================================
 
 Object Oriented Programming in Java from University of California, San Diego offered through Coursera https://www.coursera.org/specializations/java-object-oriented
 
